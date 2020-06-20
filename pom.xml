@@ -21,6 +21,7 @@
     <module>tjthread_ch01</module>
     <module>tjthread_ch02</module>
     <module>tjthread_ch03</module>
+    <module>tjthread_ch04</module>
   </modules>
 
   <dependencies>
